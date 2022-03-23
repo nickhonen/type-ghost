@@ -6,7 +6,7 @@ import { useKeyPress } from "./useKeyPress";
 
 const App = () => (
   <div>
-    <p>The quick brown fox jumps over the lazy dog</p>
+    <p>The quick brown fox jumps over the lazy dog.</p>
   </div>
 )
 
